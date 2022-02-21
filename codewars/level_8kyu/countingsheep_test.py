@@ -10,4 +10,5 @@ def test_1():
               True, True, True, True,
               False, False, True, True];
 
+
     assert count_sheeps(array1) == 17
